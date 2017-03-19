@@ -1,0 +1,7 @@
+#Sun Jan 29 00:33:55 CET 2017
+base.0=C\:\\Users\\manu\\AndroidStudioProjects\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_65fc8ac1e27d946233c93222479185d62c31881e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\manu\\AndroidStudioProjects\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cba5bce8765a7180c7160af9b1e670aad44b7203\\classes.dex
+base.1=C\:\\Users\\manu\\AndroidStudioProjects\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cba5bce8765a7180c7160af9b1e670aad44b7203
+file.0=C\:\\Users\\manu\\AndroidStudioProjects\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_65fc8ac1e27d946233c93222479185d62c31881e\\classes.dex
