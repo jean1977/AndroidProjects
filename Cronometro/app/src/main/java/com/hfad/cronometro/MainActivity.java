@@ -1,5 +1,6 @@
 package com.hfad.cronometro;
 
+import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -50,6 +51,13 @@ public class MainActivity extends AppCompatActivity {
     public void onClickStop(View view)
     {
         running = false;
+    }
+
+
+    public void onClickAct2(View view)
+    {
+        Intent intent = new Intent(this,Main2Activity.class);
+        startActivity(intent);
     }
 
     public void onClickReset(View view)

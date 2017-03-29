@@ -56,8 +56,9 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Act2"
         android:layout_below="@+id/button_reset"
         android:layout_alignLeft="@+id/button_reset"
-        android:layout_marginTop="25dp" />
+        android:layout_marginTop="25dp"
+        android:onClick="onClickAct2"/>
 </RelativeLayout>
