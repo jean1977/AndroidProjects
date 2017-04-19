@@ -8,4 +8,7 @@
         <item>amber</item>
         <item>brown</item>
     </string-array>
+    <string name="title_activity_grid_layout_test">GridLayoutTest</string>
+    <string name="textview">to</string>
+    <string name="title_activity_linear_layout">LinearLayoutActivity</string>
 </resources>
